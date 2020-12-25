@@ -7,9 +7,12 @@
 
 Im Curently Learning python and Telethon 
 
--I did some silly mistake like not giving credits do other but @xditya Pls forgive me bro sorry it was my mistake 
+- I did some silly mistake like not giving credits do other but @xditya Pls forgive me bro sorry it was my mistake 
 
--I Reallised That Makin A Modules Takes effort 
+- I Reallised That Makin A Modules Takes effort 
+
+
+### Pro Tip
 
 - If You Copy Someones Works Please Give him/her credits
 
