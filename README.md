@@ -22,7 +22,7 @@ Im Curently Learning python and Telethon
 
 - Class- 11th
 
-- Fun Fact- I never studyied due to my excitment towards python😂😂
+- Fun Fact- I never studied due to my excitment towards python😂😂
 
 ### My Device
 
