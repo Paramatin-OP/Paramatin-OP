@@ -18,17 +18,17 @@ Im Curently Learning python and Telethon
 
 ### About Me-
 
--State- India, Delhi
+- State- India, Delhi
 
--Class- 11th
+- Class- 11th
 
--Fun Fact- I never studyied due to my excitment towards python😂😂
+- Fun Fact- I never studyied due to my excitment towards python😂😂
 
 ### My Device
 
--Lenovo g50 a low end laptop😂
+- Lenovo g50 a low end laptop😂
 
--Mostly Using VS Code and Pycharm
+- Mostly Using VS Code and Pycharm
 
 
 
