@@ -12,6 +12,9 @@ Im Curently Learning python and Telethon
 - I Reallised That Makin A Modules Takes effort 
 
 
+### My Stats
+![KeinSin github stats](https://github-readme-stats.vercel.app/api?username=KeinShin&show_icons=true&theme=midnight-purple)
+
 ### Pro Tip
 
 - If You Copy Someones Works Please Give him/her credits
