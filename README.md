@@ -1,7 +1,9 @@
 ### Hi 👋👋
 
-<img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='500"'>
+<img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'>
 
+### My Stats
+![KeinSin github stats](https://github-readme-stats.vercel.app/api?username=KeinShin&show_icons=true&theme=midnight-green)
 
 ### Heres About Me -
 
@@ -11,9 +13,10 @@ Im Curently Learning python and Telethon
 
 - I Reallised That Makin A Modules Takes effort 
 
+# MOST USED LANGUAGE
 
-### My Stats
-![KeinSin github stats](https://github-readme-stats.vercel.app/api?username=KeinShin&show_icons=true&theme=midnight-purple)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=KeinShin&theme=midnight-purple)
+
 
 ### Pro Tip
 
