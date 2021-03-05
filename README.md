@@ -9,7 +9,7 @@
 
 Im Curently Learning python and Telethon 
 
-- I did some silly mistake like not giving credits do other but @xditya Pls forgive me bro sorry it was my mistake 
+- I did some silly mistake like not giving credits
 
 - I Reallised That Makin A Modules Takes effort 
 
