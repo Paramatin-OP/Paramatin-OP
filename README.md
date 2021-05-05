@@ -3,11 +3,11 @@
 <img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'>
 
 ### My Stats
-![KeinSin github stats](https://github-readme-stats.vercel.app/api?username=KeinShin&show_icons=true&theme=midnight-purple)
+![KeinSin github stats](https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple)
 
 ### Heres About Me -
 
-Im Curently Learning python and Telethon 
+Im Curently In Raiden-Devs and Enjoying in Lightning Team
 
 - I did some silly mistake like not giving credits
 
@@ -15,7 +15,7 @@ Im Curently Learning python and Telethon
 
 # MOST USED LANGUAGE
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=KeinShin&theme=midnight-purple)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple)
 
 
 ### Pro Tip
@@ -24,17 +24,17 @@ Im Curently Learning python and Telethon
 
 ### About Me-
 
-- State- India, Delhi
+- State- India, Maharashtra
 
-- Class- 12th
+- Class- 11th
 
-- Fun Fact- I never studied due to my excitment towards python😂😂
+- Fun Fact- I never studied due to my excitment towards Bots😂😂
 
 ### My Device
 
-- Lenovo g50 a low end laptop😂
+- Dell Inspiron 5570 a laptop😂
 
-- Mostly Using VS Code and Pycharm
+- Mostly do Timepass ; Since, Berojgar
 
 
 
