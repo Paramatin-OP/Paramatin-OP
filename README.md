@@ -2,8 +2,11 @@
 
 <img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'>
 
+### Profile Views
+![Paramatin-OP](https://hit.yhype.me/github/profile?user_id=79218915)
+
 ### My Stats
-![KeinSin github stats](https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple)
+![Paramatin-OP github stats](https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple)
 
 ### Heres About Me -
 
@@ -28,13 +31,13 @@ Im Curently In Raiden-Devs and Enjoying in Lightning Team
 
 - Class- 11th
 
-- Fun Fact- I never studied due to my excitment towards Bots😂😂
+- Fun Fact- I Never Thought That you will Visit my Git profile😂😂
 
 ### My Device
 
-- Dell Inspiron 5570 a laptop😂
+- Dell Inspiron 5570 laptop😂
 
-- Mostly do Timepass ; Since, Berojgar
+- No more than this
 
 
 
