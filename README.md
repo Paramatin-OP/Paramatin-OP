@@ -3,7 +3,7 @@
 <img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'>
 
 ### Profile Views
-![Paramatin-OP](https://hit.yhype.me/github/profile?user_id=79218915)
+![Paramatin-OP](https://hit.yhype.me/github/profile?user_id=79218915&show_icon=true&theme=midnight-purple)
 
 ### My Stats
 ![Paramatin-OP github stats](https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple)
