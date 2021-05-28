@@ -7,7 +7,7 @@
 
 ### My Stats
 ![Paramatin-OP github stats](https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple)
-![Insan OP](https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple)
+![Insan OP](https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true)
 
 ### Heres About Me -
 
