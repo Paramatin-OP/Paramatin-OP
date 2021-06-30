@@ -34,6 +34,12 @@ Im Curently In Raiden-Devs and Enjoying in Lightning Team
 
 - Fun Fact- I Never Thought That you will Visit my Git profile😂😂
 
+- fav. DJ- Alan Walker
+
+- Fav Singer-Julie Bergan
+
+- Fav. Song- Ignite
+
 ### My Device
 
 - Dell Inspiron 5570 laptop😂
