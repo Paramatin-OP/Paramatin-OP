@@ -1,6 +1,6 @@
 ### Hi 👋👋
 
-<img align='centre' src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='250"'>
+<img align='centre' src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='500"'>
 
 ### Profile Views
 ![Paramatin-OP](https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic)
