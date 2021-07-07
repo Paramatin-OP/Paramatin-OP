@@ -1,6 +1,6 @@
 ### Hi 👋👋
 
-<img align='centre' src='https://media1.tenor.com/images/73c30c771d758437b67f727452b73f4e/tenor.gif' width='250"'>
+<img align='centre' src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='250"'>
 
 ### Profile Views
 ![Paramatin-OP](https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic)
@@ -38,13 +38,13 @@ Im Curently In Raiden-Devs and Enjoying in Lightning Team
 
 - Fav Singer-Julie Bergan
 
-- Fav. Song- Ignite
+- Fav. Song- Ignite, Diamond Heart, Different World, etc.....
 
 ### My Device
 
 - Dell Inspiron 5570 laptop😂
 
-- No more than this
+- No more than this, now follow me and get lost xD
 
 
 
