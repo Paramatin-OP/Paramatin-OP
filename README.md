@@ -1,6 +1,6 @@
 ### Hi 👋👋
 
-<p align='centre'><a href='https://t.me/Paramatin7><img src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='750"'></a></p>
+<p align='centre'><a href='https://t.me/Paramatin7'><img src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='750"'></a></p>
 
 ### Profile Views
 ![Paramatin-OP](https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic)
