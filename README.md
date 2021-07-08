@@ -7,8 +7,8 @@
 ![Paramatin-OP](https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic)
 </details>
 <details>
-<summary>My Stats</summary><p align='centre'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='450"'></p>
-<p align='Right'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='450"'></p>
+<summary>My Stats</summary><p align='centre'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></p>
+<p align='Right'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></p>
 </details>
  <details>
   <summary>Heres About Me</summary
@@ -23,7 +23,7 @@ Im Curently In Raiden-Devs and Enjoying in Lightning Team
 <details>
   <summary>MOST USED LANGUAGE</summary>
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple)
+<p align='centre'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple' width='500"'></p>
 </details>
 
 <details>
