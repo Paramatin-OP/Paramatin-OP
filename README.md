@@ -22,10 +22,10 @@ Im Curently In Raiden-Devs and Enjoying in Lightning Team
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple)
 
 
-### Pro Tip
-
+<details>
+  <summary>Pro Tip</summary>
 - If You Copy Someones Works Please Give him/her credits
-
+</details>
 ### About Me-
 
 - State- India, Maharashtra
