@@ -7,7 +7,7 @@
 ![Paramatin-OP](https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic)
 </details>
 <details>
-<summary>My Stats</summary><p align='Left'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='125"'></a></p>
+<summary>My Stats</summary><p align='Left'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></a></p>
 <p align='Right'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></a></p>
 </details>
  <details>
