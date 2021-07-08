@@ -1,6 +1,6 @@
 ### Hi 👋👋
 
-<p align='centre'><a href='https://t.me/Paramatin7'><img src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/Paramatin7'><img src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='750"'></a></p>
 
 <details>
 <summary>✨My Stats</summary><p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></p>
@@ -9,7 +9,7 @@
 <details>
   <summary>✨My Tools</summary>
 
-<p align='centre'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple' width='300"' height='300"'></p><p align ="right">
+<p align='Left'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple' width='300"' height='300"'></p><p align ="right">
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
