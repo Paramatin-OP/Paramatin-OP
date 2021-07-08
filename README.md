@@ -4,11 +4,11 @@
 
 <details>
   <summary>Profile Views</summary>
-![Paramatin-OP](https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic)
+![Paramatin-OP]()
 </details>
 <details>
 <summary>My Stats</summary><p align='centre'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></p>
-<p align='Right'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></p>
+<p align='Right'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='centre'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='200"'></p>
 </details>
  <details>
   <summary>Heres About Me</summary
