@@ -8,7 +8,7 @@
 </details>
 <details>
 <summary>My Stats</summary><p align='centre'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='475"'></a></p>
-<p align='Right'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='475"'></a></p>
+<p align='Right'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='475"'></p>
 </details>
  <details>
   <summary>Heres About Me</summary
