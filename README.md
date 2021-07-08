@@ -47,7 +47,7 @@ My Favourites :)
 - Fav Singer-Julie Bergan <p align='centre'><a href='https://www.instagram.com/juliebergan/'><img src='https://telegra.ph/file/aef4ea32e854169205421.jpg' width='125"'></a></p> 
 
 - Fav. Song- Ignite, Diamond Heart, Different World, etc.....
-  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="400" />
+  <img align="bottom" src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="400" />
 
 </details>
 <details>
