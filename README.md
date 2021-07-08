@@ -3,8 +3,8 @@
 <p align='centre'><a href='https://t.me/Paramatin7'><img src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='750"'></a></p>
 
 <details>
-<summary>My Stats</summary><p align='centre'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></p>
-<p align='Right'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
+<summary>My Stats</summary><p align='middle'><img src='https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple' width='500"'></p>
+<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='500"'></p> <p align='middle'><img src='https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic' width='175"'></p>
 </details>
 <details>
   <summary>My Tools</summary>
