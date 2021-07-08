@@ -40,7 +40,7 @@ Im Curently Working on Black-Lightning Userbot and Enjoying in Lightning Team
 - I did some silly mistake like not giving credits
 
 - I Reallised That Makin A Modules Takes effort 
-My Favourites :)
+
 
 - fav. DJ- Alan Walker <p align='centre'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://telegra.ph/file/379a29bcd73a448e0aa33.jpg' width='125"'></a></p>
 
