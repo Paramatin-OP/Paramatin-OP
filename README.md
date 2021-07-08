@@ -9,7 +9,7 @@
 <details>
 <summary>My Stats</summary>
 ![Paramatin-OP github stats](https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple)
-![Insan OP](https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true)
+<p align='Right'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true' width='125"'></a></p>
 </details>
  <details>
   <summary>Heres About Me</summary
