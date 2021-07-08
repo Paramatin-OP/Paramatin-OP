@@ -36,8 +36,7 @@ Im Curently In Raiden-Devs and Enjoying in Lightning Team
 
 - fav. DJ- Alan Walker <p align='centre'><a href='https://www.instagram.com/alanwalkermusic/'><img src='https://telegra.ph/file/379a29bcd73a448e0aa33.jpg' width='125"'></a></p>
 
-- Fav Singer-Julie Bergan
- <p align='centre'><a href='https://www.instagram.com/juliebergan/'><img src='https://telegra.ph/file/aef4ea32e854169205421.jpg' width='125"'></a></p> 
+- Fav Singer-Julie Bergan <p align='centre'><a href='https://www.instagram.com/juliebergan/'><img src='https://telegra.ph/file/aef4ea32e854169205421.jpg' width='125"'></a></p> 
 
 - Fav. Song- Ignite, Diamond Heart, Different World, etc.....
 
