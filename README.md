@@ -23,7 +23,7 @@ Im Curently In Raiden-Devs and Enjoying in Lightning Team
 <details>
   <summary>MOST USED LANGUAGE</summary>
 
-<p align='centre'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple' width='500"'></p>
+<p align='centre'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple' width='500"' height='300"'></p>
 </details>
 
 <details>
