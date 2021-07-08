@@ -2,31 +2,37 @@
 
 <p align='centre'><a href='https://t.me/Paramatin7'><img src='https://telegra.ph/file/918273a8e97047f96eeb9.jpg' width='750"'></a></p>
 
-### Profile Views
+<details>
+  <summary>Profile Views</summary>
 ![Paramatin-OP](https://komarev.com/ghpvc/?username=Paramatin-op&label=My%20Profile%20Views&color=blueviolet&style=plastic)
-
-### My Stats
+</details>
+<details>
+<summary>My Stats</summary>
 ![Paramatin-OP github stats](https://github-readme-stats.vercel.app/api?username=Paramatin-OP&show_icons=true&theme=midnight-purple)
 ![Insan OP](https://github-readme-streak-stats.herokuapp.com/?user=paramatin-op&theme=midnight-purple&show_icon=true)
-
-### Heres About Me -
+</details>
+ <details>
+  <summary>Heres About Me</summary
 
 Im Curently In Raiden-Devs and Enjoying in Lightning Team
 
 - I did some silly mistake like not giving credits
 
 - I Reallised That Makin A Modules Takes effort 
+    </details>
 
-# MOST USED LANGUAGE
+<details>
+  <summary>MOST USED LANGUAGE</summary>
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramatin-OP&theme=midnight-purple)
-
+</details>
 
 <details>
   <summary>Pro Tip</summary>
 - If You Copy Someones Works Please Give him/her credits
 </details>
-### About Me-
+<details>
+<summary>About Me</summary>
 
 - State- India, Maharashtra
 
@@ -39,12 +45,14 @@ Im Curently In Raiden-Devs and Enjoying in Lightning Team
 - Fav Singer-Julie Bergan <p align='centre'><a href='https://www.instagram.com/juliebergan/'><img src='https://telegra.ph/file/aef4ea32e854169205421.jpg' width='125"'></a></p> 
 
 - Fav. Song- Ignite, Diamond Heart, Different World, etc.....
-
-### My Device
+</details>
+<details>
+  <summary>My Device</summary>
 
 - Dell Inspiron 5570 laptop😂
 
 - No more than this, now follow me and get lost xD
+  </details>
 
 
 
