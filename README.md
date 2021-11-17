@@ -29,13 +29,13 @@
 <details>
 <summary>✨My Info</summary>
 
-- State- India, Maharashtra
+- State- India, MH
 
 - Class- 11th
 
 - Fun Fact- I Never Thought That you will Visit my Git profile😂😂
 
-Im Curently Working on Black-Lightning Userbot and Enjoying in Lightning Team
+Im Curently completing my study backlog and participating in Vision Development
 
 - I did some silly mistake like not giving credits
 
