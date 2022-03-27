@@ -31,17 +31,9 @@
 
 - State- India, MH
 
-- Class- 11th
+- Class- 11th, Biology student
 
 - Fun Fact- I Never Thought That you will Visit my Git profile
-
-Im Curently completing my study backlog and participating in Vision Development
-
-- I did some silly mistake like not giving credits
-
-- I Reallised That Makin A Modules Takes effort 
-
-
 
 </details>
 <details>
