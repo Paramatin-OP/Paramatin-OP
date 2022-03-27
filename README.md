@@ -33,7 +33,7 @@
 
 - Class- 11th
 
-- Fun Fact- I Never Thought That you will Visit my Git profile😂😂
+- Fun Fact- I Never Thought That you will Visit my Git profile
 
 Im Curently completing my study backlog and participating in Vision Development
 
